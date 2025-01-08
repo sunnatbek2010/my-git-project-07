@@ -1,0 +1,161 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+.text-1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: start;
+}
+.btn-1{
+    background-color: darkcyan;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.navigate-panel{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    align-items: center;
+}
+.img1{
+    margin-left:40%;
+    margin-top: 100px;
+}
+.text-2{
+    text-align: center;
+    font-size: 40px;
+}
+.text-3{
+    text-align: center;
+    margin-top: 50px;
+    color: darkgray;
+}
+.btn-2{
+    background-color: darkcyan;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    margin-left:43%;
+    margin-top: 50px;
+}
+.text-4{
+    text-align: center;
+}
+.page-2{
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    background-color: dimgray;
+}
+.text-5{
+    text-align: left;
+}
+.img2{
+    background-image: url(/Oval.png);
+    width: 30px;
+    padding: 5px;
+    height: 30px;
+    background-size: 100%;
+    background-position:right;
+    margin-top: 20px;
+}
+.card-1{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+
+}
+.cards{
+    display: flex;
+    gap: 30px;
+}
+.card-2{
+    display: flex;
+    gap: 20px;
+}
+.page-3{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    color: white;
+    align-items: center;
+    height: 500px;
+}
+.left-2{
+    margin-left: 150px;
+    font-size: 20px;
+}
+.page-4{
+    background-image: url(/Music\ Wave\ 2.png);
+    background-size: 100vh;
+    background-color: rgb(3, 0, 21);
+    color: white;
+    text-align: center;
+    padding:10px;
+    justify-content: center;
+}
+.text-6{
+    margin-top: 120px;
+}
+.text-7{
+    font-family: 'Courier New', Courier, monospace;
+    color: grey;
+}
+.airpods{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.airpods-2{
+    margin-top: 150px;
+}
+.page-5{
+    text-align: center;
+    padding: 100px;
+}
+.btn-buy{
+    background-color: #473BF0;
+    color: white;
+    border: none;
+    padding: 15px;
+    width: 150px;
+    border-radius: 10px;
+}
+.model-airpods{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 50px;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1600px;
+}
+.img-page6{
+    max-width: 1519px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 1500px;
+}
